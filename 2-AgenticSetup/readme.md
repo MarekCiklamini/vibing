@@ -1,4 +1,4 @@
-# AWESOME SETUP 
+# AWESOME SETUP  /n
 ## skills> KARATE, KUNGFU, 
 ## tools >> GHB, Qdrant, 
 ## subagents: 
